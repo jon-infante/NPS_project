@@ -10,3 +10,5 @@ Extracting and asking questions about the data from Make School students' rating
 # Q3: In summary most people think the apps class pacing was just right. Interestingly not a single person said the apps class was way too slow.
 
 # Q4: Apps turns out to have the most promoters by a long shot with Games, Explorer being the least.
+
+# Q5: The NPS score tuned out to be around 44.5
